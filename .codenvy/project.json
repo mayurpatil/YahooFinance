@@ -1,0 +1,1 @@
+{"mixinTypes":[],"runners":{"configs":{}},"builders":{"configs":{},"default":"maven"},"description":"Exploring Yahoo Developer Network","type":"GAEJava","attributes":{"languageVersion":["1.6"],"language":["java"]}}
